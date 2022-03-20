@@ -1,0 +1,23 @@
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: aqua;
+}
+p:hover{
+    background-color: purple;
+    border: turquoise 5px solid;
+    border-radius: 10px;
+}
+li{
+    width: 50%;
+}
+.botom{
+    color: white;
+    padding: 15px 15px 15px 15px;
+    background-color: rgb(255, 123, 0);
+    text-shadow: none;
+}
+.botom:hover{
+    background-color: rgba(241, 129, 0, 0.842);
+}
