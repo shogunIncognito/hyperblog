@@ -20,8 +20,8 @@ body{
     
 }
 #cabecera{
-    color: white;
-    box-shadow: #333;
+    color: yellowgreen;
+    box-shadow: rgb(219, 184, 28);
     background-color: darkmagenta;
     text-align: center;
     font-weight: bold;
