@@ -8,11 +8,22 @@ body{
 }
 #container{
     width: 70%;
-    padding: 1em;
     text-align: left;
-    border: 1px solid #DDD1;
+    border: 5px solid red;
     margin: 0 auto;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(92,9,121,1) 42%, rgba(0,212,255,1) 100%);
+    color: white;
 }
 #container h1{
     font-size: 20px;
+    
+}
+#cabecera{
+    color: white;
+    box-shadow: #333;
+    background-color: darkmagenta;
+    text-align: center;
+    font-weight: bold;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
