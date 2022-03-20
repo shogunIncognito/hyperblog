@@ -9,4 +9,5 @@ $(document).ready(function(){
         $(this).css('border', '');
         
     })
+    console.log('Hola')
 })
